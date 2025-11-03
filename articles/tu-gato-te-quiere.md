@@ -1,12 +1,3 @@
----
-title: "¿Tu gato te quiere? 5 Señales Inconfundibles de Amor Felino"
-date: 2024-10-28
-author: El Rincón del Minino
-category: Comportamiento Felino
-tags: [gatos, amor felino, comportamiento, señales]
-image: /images/gato-ronroneo-dueño.jpg
-description: ¿Alguna vez te has preguntado si tu gato realmente te quiere? Descubre las 5 señales clave que demuestran su afecto, más allá del misterio felino.
----
 
 # ¿Tu gato te quiere? 5 Señales Inconfundibles de Amor Felino
 
